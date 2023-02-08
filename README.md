@@ -1,6 +1,8 @@
 # Stress-detection-using-ML
 Depression Detection using Naive Bayes
+
 Depression
+
 Depression Illustration
 
 According to the World Health Organization, depression is the leading cause of disability worldwide. Globally, more than 300 million people of all ages suffer from the disorder. And the incidence of the disorder is increasing everywhere. Depression is a complex condition, involving many systems of the body, including the immune system, either as cause or effect. It disrupts sleep and it interferes with appetite; in some cases, it causes weight loss; in others, it contributes to weight gain. Depression is also often accompanied by anxiety. Research indicates that not only do the two conditions co-occur but that they overlap in vulnerability patterns.
