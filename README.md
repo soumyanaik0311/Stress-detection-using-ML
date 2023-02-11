@@ -58,4 +58,4 @@ P(B|A): The probability of the hypothesis given that the evidence is true. <br>
  3. Bernoulli Naïve Bayes:  When data is dispensed according to the multivariate Bernoulli distributions then Bernoulli Naive Bayes is used. That means there exist multiple        features but each one is assumed to contain a binary value. So, it requires features to be binary-valued.
 ---
 ### Objectives
-Aim for this project is to build a machine learning model that can classify a text to two category: STRESS(0) or NO STRESS(1) using bernoulli naive bayes formula by calculating the sentiment of the frequency words in the training data.
+Aim for this project is to build a machine learning model that can classify a text to two category: STRESS(0) or NO STRESS(1) using bernoulli naive bayes formula by calculating the sentiment of the frequency words in the training data.This model uses a 70:30 train to test ratio to detect the stress in an individual.
